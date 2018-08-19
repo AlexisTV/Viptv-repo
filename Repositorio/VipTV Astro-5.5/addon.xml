@@ -17,6 +17,6 @@
    <extension point="xbmc.addon.repository" name="Viptv-repo">
         <info>https://raw.githubusercontent.com/AlexisTV/Viptv-repo/master/Repositorio/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/AlexisTV/Viptv-repo/master/Repositorio/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/Viptv-repo/master/Repositorio/</datadir>
+        <datadir zip="true">https://raw.githubusercontent.com/AlexisTV/master/Repositorio/</datadir>
     </extension>>
 </addon>
