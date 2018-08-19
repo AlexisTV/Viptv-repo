@@ -9,13 +9,12 @@
   <extension point="xbmc.service" library="startup.py" start="startup" />
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Instalador[COLOR cyan]VipTV Wizard[/COLOR]</summary>
-    <description lang="en">Este es un Wizard enfocado a la instalacion de la Plataforma Viptv por medio de Kodi</description>
+    <description lang="en">Wizard enfocado a la instalacion de la Plataforma Viptv por medio de Kodi</description>
     <disclaimer lang="en">[B]Para ayuda, preguntas y respuestas, consulta a AlexisTV creador[/B]</disclaimer>
     <platform>all</platform>
 	<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
   </extension>
-  
-  <extension point="xbmc.addon.repository" name="Viptv-repo">
+   <extension point="xbmc.addon.repository" name="Viptv-repo">
         <info>https://raw.githubusercontent.com/AlexisTV/Viptv-repo/master/Repositorio/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/AlexisTV/Viptv-repo/master/Repositorio/addons.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/Viptv-repo/master/Repositorio/</datadir>
